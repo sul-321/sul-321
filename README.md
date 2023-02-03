@@ -1,16 +1,13 @@
-### Hi there 👋
+💻 Sulayman Hayat
+📚 Student of Software Engineering Bootcamp at HyperionDev
+<p align="center">
+  <img src="https://media.giphy.com/media/1BXaN0bLFVCsU/giphy.gif" alt="Programming" height="200" />
+</p>
+Welcome to my GitHub repository! 🎉 I am currently a student of the Software Engineering Bootcamp at HyperionDev and have been honing my skills in software development. Here you will find my capstone projects from the bootcamp which showcase my skills in software engineering.
 
-<!--
-**sul-321/sul-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Projects
+🚀 Project 1 https://github.com/sul-321/finalCapstone.git
 
-Here are some ideas to get you started:
+Feel free to take a look at my projects and give me feedback 💬. I am always looking for ways to improve and grow as a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub repository! 🙌
