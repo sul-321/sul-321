@@ -1,5 +1,5 @@
 💻 Sulayman Hayat
-📚 Student of Software Engineering Bootcamp at HyperionDev
+📚 Software Engineering Bootcamp Graduate at HyperionDev
 
 Welcome to my GitHub repository! 🎉 I am currently a student of the Software Engineering Bootcamp at HyperionDev and have been honing my skills in software development. Here you will find my capstone projects from the bootcamp which showcase my skills in software engineering.
 
